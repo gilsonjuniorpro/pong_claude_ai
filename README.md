@@ -1,4 +1,4 @@
-# pong_claude_ai
+# Pong - Atari Classic Game
 
 A new Flutter project.
 
